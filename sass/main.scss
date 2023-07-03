@@ -1,0 +1,20 @@
+// import all abstracts files
+@import "abstract/variables";
+@import "abstract/utilities";
+@import "abstract/topography";
+@import "abstract/mixin";
+@import "abstract/function";
+
+// import of all base files
+
+@import "base/base";
+
+// import of all component files
+@import "components/button";
+@import "components/card";
+@import "components/animation";
+
+// import of all pages files
+@import "pages/about";
+@import "pages/contact";
+@import "pages/contact";

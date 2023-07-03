@@ -1,0 +1,23 @@
+{
+  "name": "completesite",
+  "version": "1.0.0",
+  "description": "clone this repo to local machine using \"git clone URL of this repo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-compile": "node-sass sass/main.scss  style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAMUELODEKINA/completesite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAMUELODEKINA/completesite/issues"
+  },
+  "homepage": "https://github.com/SAMUELODEKINA/completesite#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
