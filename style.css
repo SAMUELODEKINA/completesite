@@ -17,4 +17,6 @@ img {
   object-fit: cover; }
 
 .paragraph {
-  font-size: 3rem; }
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: grey; }
